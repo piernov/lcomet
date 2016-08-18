@@ -1,0 +1,6 @@
+[submodule "hump"]
+	path = hump
+	url = https://github.com/vrld/hump.git
+[submodule "Quickie"]
+	path = Quickie
+	url = git://piernov.org/Quickie
